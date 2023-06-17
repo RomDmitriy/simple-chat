@@ -1,0 +1,20 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RomDmitriy/simple-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomDmitriy/simple-chat/issues"
+  },
+  "homepage": "https://github.com/RomDmitriy/simple-chat#readme",
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "type": "module"
+}
